@@ -34,7 +34,7 @@ I am an AI & Data Science student with an interest in data analytics and program
 - Machine Learning
 
 ## Connect With Me
-- LinkedIn: www.linkedin.com/in/shamini-shanmugam
+- LinkedIn: linkedin.com/in/shamini-shanmugam-99252b320
 - GitHub: github.com/shaminishanmugam30
 
 ⭐ Thank you for visiting my profile!
